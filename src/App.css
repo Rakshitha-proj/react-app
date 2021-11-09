@@ -27,6 +27,10 @@
 .App-link {
   color: #61dafb;
 }
+.paginationButtons{
+  position: absolute;
+  left: 100px;
+}
 
 @keyframes App-logo-spin {
   from {

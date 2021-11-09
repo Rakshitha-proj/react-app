@@ -5,7 +5,6 @@ function Navigation() {
         <li className="nav-item">
           <Link className="nav-link active" aria-current="page" to="/">Home</Link>
         </li>
-        
       </ul>
     )
 }
